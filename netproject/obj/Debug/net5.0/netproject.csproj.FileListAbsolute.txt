@@ -1,0 +1,16 @@
+C:\Users\Debbie\netproject\bin\Debug\net5.0\netproject.exe
+C:\Users\Debbie\netproject\bin\Debug\net5.0\netproject.deps.json
+C:\Users\Debbie\netproject\bin\Debug\net5.0\netproject.runtimeconfig.json
+C:\Users\Debbie\netproject\bin\Debug\net5.0\netproject.runtimeconfig.dev.json
+C:\Users\Debbie\netproject\bin\Debug\net5.0\netproject.dll
+C:\Users\Debbie\netproject\bin\Debug\net5.0\ref\netproject.dll
+C:\Users\Debbie\netproject\bin\Debug\net5.0\netproject.pdb
+C:\Users\Debbie\netproject\obj\Debug\net5.0\netproject.csprojAssemblyReference.cache
+C:\Users\Debbie\netproject\obj\Debug\net5.0\netproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Debbie\netproject\obj\Debug\net5.0\netproject.AssemblyInfoInputs.cache
+C:\Users\Debbie\netproject\obj\Debug\net5.0\netproject.AssemblyInfo.cs
+C:\Users\Debbie\netproject\obj\Debug\net5.0\netproject.csproj.CoreCompileInputs.cache
+C:\Users\Debbie\netproject\obj\Debug\net5.0\netproject.dll
+C:\Users\Debbie\netproject\obj\Debug\net5.0\ref\netproject.dll
+C:\Users\Debbie\netproject\obj\Debug\net5.0\netproject.pdb
+C:\Users\Debbie\netproject\obj\Debug\net5.0\netproject.genruntimeconfig.cache
